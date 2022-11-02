@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-# <h3 align="center">Interested in modeling, ML, data analytics/science, especially applied to financial markets.</h3>
 
 - 📫 How to reach me **michaelbianez@gmail.com**
 
