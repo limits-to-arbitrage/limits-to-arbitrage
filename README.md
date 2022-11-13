@@ -1,4 +1,5 @@
 ### Michael Bianez
+For more, see my [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) or [random general posts](https://github.com/limits-to-arbitrage/random-posts).
 [![Linkedin Badge](https://img.shields.io/badge/-Michael_Bianez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelbianez//)](https://www.linkedin.com/in/michaelbianez/) [![Gmail Badge](https://img.shields.io/badge/-michaelbianez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelbianez@gmail.com)](mailto:michaelbianez@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About me
