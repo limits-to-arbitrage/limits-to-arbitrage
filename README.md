@@ -7,14 +7,15 @@
 * Python
 * SQL
 * R
+
 **Libraries and tools:**
 * Python: Pandas, NumPy, Matplotlib, etc.
 * SQL: MySQL
 * R: ggplot
-*  **Hobbies:** Brazilian jiu-jitsu (2nd-degree white belt under Carlos Machado)
-*  **Working on:**
-  *  Reading through *[Mathematics of Machine Learning](https://mml-book.github.io/)* by Deisenroth, et al.
-  *  Working to scrape, standardize, store, and report [WARN act notices](https://www.dol.gov/agencies/eta/layoffs/warn) nationally. You'd be surprised how different the presentations are across states...
+
+**Working on:**
+* Reading through *[Mathematics of Machine Learning](https://mml-book.github.io/)* by Deisenroth, et al.
+* Scraping, standardizing, and reporting [WARN act notices](https://www.dol.gov/agencies/eta/layoffs/warn) at the national level. These are reported by state (where applicable) and you'd be surprised how different the presentations are across states...
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
