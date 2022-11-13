@@ -11,19 +11,19 @@ Please don't hesitate to reach out:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael_Bianez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelbianez//)](https://www.linkedin.com/in/michaelbianez/) [![Gmail Badge](https://img.shields.io/badge/-michaelbianez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelbianez@gmail.com)](mailto:michaelbianez@gmail.com)
 
-# More about me
+# Details
 
-**Languages:**
+#### **Languages:**
 * Python
 * SQL
 * R
 
-**Libraries and tools:**
+#### **Libraries and tools:**
 * **Python:** Data science tools like Pandas, NumPy | Web scraping with Selenium | Data visualization with Matplotlib
 * **SQL:** MySQL
 * **R:** Data science tools like the Tidyverse | Data visualization with ggplot
 
-**Working on:**
+#### **Working on:**
 * Reading *[Mathematics of Machine Learning](https://mml-book.github.io/)* by Deisenroth, et al.
 * Scraping, standardizing, and reporting [WARN act notices](https://www.dol.gov/agencies/eta/layoffs/warn) at the national level. These are reported by state (where applicable) and you'd be surprised how different the presentations are across states...
 * Completing certification for [Apache Spark](https://www.databricks.com/learn/certification/apache-spark-developer-associate) and [TensorFlow](https://www.tensorflow.org/certificate).
