@@ -9,7 +9,7 @@
 *  **Current projects:**
 *  **Working on:**
   * Reading through *[Mathematics of Machine Learning](https://mml-book.github.io/)* by Deisenroth, et al.
-  *  Working to scrape, standardize, store, and report [WARN act notices](https://www.dol.gov/agencies/eta/layoffs/warn) nationally. You'd be surprised how different the presentations are across states...
+  * Working to scrape, standardize, store, and report [WARN act notices](https://www.dol.gov/agencies/eta/layoffs/warn) nationally. You'd be surprised how different the presentations are across states...
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
