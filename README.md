@@ -10,7 +10,7 @@ I am always interested in collaborating on systematic strategies, empirical fina
 Please don't hesitate to reach out:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael_Bianez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelbianez//)](https://www.linkedin.com/in/michaelbianez/) [![Gmail Badge](https://img.shields.io/badge/-michaelbianez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelbianez@gmail.com)](mailto:michaelbianez@gmail.com)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## More about me
 
 **Languages:**
