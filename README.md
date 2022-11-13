@@ -20,7 +20,7 @@ I am always interested in collaborating on systematic strategies, empirical fina
 * R
 
 **Libraries and tools:**
-* **Python:** Data science tools like Pandas, NumPy | Data visualization with Matplotlib
+* **Python:** Data science tools like Pandas, NumPy | Web scraping with Selenium | Data visualization with Matplotlib
 * **SQL:** MySQL
 * **R:** Data science tools like the Tidyverse | Data visualization with ggplot
 
