@@ -1,6 +1,10 @@
 ### Michael Bianez
 
-For more, see my [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) or [random general posts](https://github.com/limits-to-arbitrage/random-posts).
+Outside of project repos, I also log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts).
+
+Most recently on:
+* [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts): I posted a simple [derivation of the duration of a growing perpetuity](https://github.com/limits-to-arbitrage/random-finance-posts/blob/main/duration-growing-perpetuity.ipynb), as I'd yet to see one readily online.
+* [random general posts](https://github.com/limits-to-arbitrage/random-posts): I posted a [step-by-step derivation of the sigmoid function](https://github.com/limits-to-arbitrage/random-posts/blob/main/derivative_sigmoid.ipynb) for those interested (e.g., students in ML/DL courses or certifications).
 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael_Bianez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelbianez//)](https://www.linkedin.com/in/michaelbianez/) [![Gmail Badge](https://img.shields.io/badge/-michaelbianez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelbianez@gmail.com)](mailto:michaelbianez@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
