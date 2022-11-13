@@ -13,17 +13,17 @@ Please don't hesitate to reach out:
 
 # Details
 
-#### **Languages:**
+### **Languages:**
 * Python
 * SQL
 * R
 
-#### **Libraries and tools:**
+### **Libraries and tools:**
 * **Python:** Data science tools like Pandas, NumPy | Web scraping with Selenium | Data visualization with Matplotlib
 * **SQL:** MySQL
 * **R:** Data science tools like the Tidyverse | Data visualization with ggplot
 
-#### **Working on:**
+### **Working on:**
 * Reading *[Mathematics of Machine Learning](https://mml-book.github.io/)* by Deisenroth, et al.
 * Scraping, standardizing, and reporting [WARN act notices](https://www.dol.gov/agencies/eta/layoffs/warn) at the national level. These are reported by state (where applicable) and you'd be surprised how different the presentations are across states...
 * Completing certification for [Apache Spark](https://www.databricks.com/learn/certification/apache-spark-developer-associate) and [TensorFlow](https://www.tensorflow.org/certificate).
