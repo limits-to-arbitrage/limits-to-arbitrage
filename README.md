@@ -3,10 +3,15 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About me
 
-*  **Languages:** Python, SQL, R
-*  **Libraries and tools:** Python: Pandas, NumPy, TensorFlow, etc.
+**Languages:**
+* Python
+* SQL
+* R
+**Libraries and tools:**
+* Python: Pandas, NumPy, Matplotlib, etc.
+* SQL: MySQL
+* R: ggplot
 *  **Hobbies:** Brazilian jiu-jitsu (2nd-degree white belt under Carlos Machado)
-*  **Current projects:**
 *  **Working on:**
   *  Reading through *[Mathematics of Machine Learning](https://mml-book.github.io/)* by Deisenroth, et al.
   *  Working to scrape, standardize, store, and report [WARN act notices](https://www.dol.gov/agencies/eta/layoffs/warn) nationally. You'd be surprised how different the presentations are across states...
