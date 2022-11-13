@@ -2,9 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Michael_Bianez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelbianez//)](https://www.linkedin.com/in/michaelbianez/) [![Gmail Badge](https://img.shields.io/badge/-michaelbianez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelbianez@gmail.com)](mailto:michaelbianez@gmail.com)
 <br>
 <br>
-Started out in finance as a hedge fund analyst, trading long and (mostly) short equity—getting the CFA and CPA along the way. Through work, the way I approached markets became increasingly quantiative, to the point I decided it was time to formally puruse a more quantitative role (while offering hedge fund consulting). Outside of project repos, I also log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts).
+Started out in finance as a hedge fund analyst trading long and (mostly) short equity—getting a CFA and CPA along the way. At work, the way I approached markets became increasingly quantitative, to the point I decided it was time to formally puruse a more quantitative role (while doing hedge fund consulting).
 
-Most recently on:
+Outside of project repos, I also log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts). Most recently on:
 * **[Random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts):** I posted a simple [derivation of the duration of a growing perpetuity](https://github.com/limits-to-arbitrage/random-finance-posts/blob/main/duration-growing-perpetuity.ipynb), as I'd yet to see one readily online.
 * **[Random general posts](https://github.com/limits-to-arbitrage/random-posts):** I posted a [step-by-step derivation of the sigmoid function](https://github.com/limits-to-arbitrage/random-posts/blob/main/derivative_sigmoid.ipynb) for those interested (e.g., students in ML/DL courses or certifications).
 
