@@ -1,4 +1,4 @@
-## Overview
+# Overview
 I started out in finance as a hedge fund analyst trading long and (mostly) short equity—even getting a CFA and CPA along the way. At work, the way I approached markets became increasingly quantitative until I figured it was time to formally pursue a more quantitative role—while still doing hedge fund consulting (e.g., empirical finance work, predictive modeling, web scraping).
 
 Outside of project repos, I also log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts). Most recently on:
@@ -11,7 +11,7 @@ Please don't hesitate to reach out:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael_Bianez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelbianez//)](https://www.linkedin.com/in/michaelbianez/) [![Gmail Badge](https://img.shields.io/badge/-michaelbianez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelbianez@gmail.com)](mailto:michaelbianez@gmail.com)
 
-## More about me
+# More about me
 
 **Languages:**
 * Python
