@@ -3,11 +3,12 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About me
 
--  **Languages :** Python, SQL, R
--  **Libraries and tools :** Python: Pandas, NumPy, TensorFlow, etc.
--  **Hobbies :** Brazilian jiu-jitsu (2nd-degree white belt under Carlos Machado)
--  **Current projects :** Technojam 
--  **Organization :** Technojam
+-  **Languages:** Python, SQL, R
+-  **Libraries and tools:** Python: Pandas, NumPy, TensorFlow, etc.
+-  **Hobbies:** Brazilian jiu-jitsu (2nd-degree white belt under Carlos Machado)
+-  **Current projects:**
+-  **Working on: *
+-  - Test
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
