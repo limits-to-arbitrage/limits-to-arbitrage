@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Michael_Bianez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelbianez//)](https://www.linkedin.com/in/michaelbianez/) [![Gmail Badge](https://img.shields.io/badge/-michaelbianez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelbianez@gmail.com)](mailto:michaelbianez@gmail.com)
 <br>
 <br>
+### Overview
 Started out in finance as a hedge fund analyst trading long and (mostly) short equity—even getting a CFA and CPA along the way. At work, the way I approached markets became increasingly quantitative, to the point I decided it was time to formally puruse a more quantitative role (while doing hedge fund consulting).
 
 Outside of project repos, I also log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts). Most recently on:
@@ -9,7 +10,7 @@ Outside of project repos, I also log [random finance posts](https://github.com/l
 * **[Random general posts](https://github.com/limits-to-arbitrage/random-posts):** I posted a [step-by-step derivation of the sigmoid function](https://github.com/limits-to-arbitrage/random-posts/blob/main/derivative_sigmoid.ipynb) for those interested (e.g., students in ML/DL courses or certifications).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About me
+### More about me
 
 **Languages:**
 * Python
