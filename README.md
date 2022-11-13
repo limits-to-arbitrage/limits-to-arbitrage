@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Michael_Bianez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelbianez//)](https://www.linkedin.com/in/michaelbianez/) [![Gmail Badge](https://img.shields.io/badge/-michaelbianez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelbianez@gmail.com)](mailto:michaelbianez@gmail.com)
 <br>
 <br>
-Outside of project repos, I also log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts).
+Started out in accounting and then finance as a hedge fund analyst—even getting the CFA and CPA. Through work I used increasingly more quantitatvie methods and decided to make the jump to a more quantitative role. Outside of project repos, I also log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts).
 
 Most recently on:
 * **[Random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts):** I posted a simple [derivation of the duration of a growing perpetuity](https://github.com/limits-to-arbitrage/random-finance-posts/blob/main/duration-growing-perpetuity.ipynb), as I'd yet to see one readily online.
