@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
+### Michael Bianez
+[![Linkedin Badge](https://img.shields.io/badge/-Michael_Bianez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelbianez//)](https://www.linkedin.com/in/michaelbianez/) [![Gmail Badge](https://img.shields.io/badge/-michaelbianez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelbianez@gmail.com)](mailto:michaelbianez@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About me
 
-- 📫 How to reach me **michaelbianez@gmail.com**
+-  **Languages :** Python, SQL, R
+-  **Libraries and tools :** Python: Pandas, NumPy, TensorFlow, etc.
+-  **Hobbies :** Brazilian jiu-jitsu (2nd-degree white belt under Carlos Machado)
+-  **Current projects :** Technojam 
+-  **Organization :** Technojam
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/michaelbianez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelbianez" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/michaelbianez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="limits-to-arbitrage" height="30" width="40" /></a>
-</p>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![github stats](https://github-readme-stats.vercel.app/api?username=limits-to-arbitrage&show_icons=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limits-to-arbitrage&show_icons=true&locale=en&layout=compact" alt="limits-to-arbitrage" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limits-to-arbitrage&show_icons=true&locale=en" alt="limits-to-arbitrage" /></p>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
