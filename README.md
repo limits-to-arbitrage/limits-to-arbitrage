@@ -20,7 +20,6 @@ Please don't hesitate to reach out:
 
 ### **Libraries and tools:**
 * **Python:** Data science tools like Pandas, NumPy | Web scraping with Selenium | Data visualization with Matplotlib
-* **SQL:** MySQL
 * **R:** Data science tools like the Tidyverse | Data visualization with ggplot
 
 ### **Working on:**
