@@ -26,4 +26,4 @@ Please don't hesitate to reach out:
 ### **Working on:**
 * Reading *[Mathematics of Machine Learning](https://mml-book.github.io/)* by Deisenroth, et al.
 * Scraping, standardizing, and reporting [WARN act notices](https://www.dol.gov/agencies/eta/layoffs/warn) at the national level. These are reported by state (where applicable) and you'd be surprised how different the presentations are across states...
-* Completing certification for [Apache Spark](https://www.databricks.com/learn/certification/apache-spark-developer-associate) and [TensorFlow](https://www.tensorflow.org/certificate).
+* Completing DeepLearning.AI's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?) course.
