@@ -27,6 +27,7 @@ Please don't hesitate to reach out:
 * Reading *[Mathematics of Machine Learning](https://mml-book.github.io/)* by Deisenroth, et al.
 * Scraping, standardizing, and reporting [WARN act notices](https://www.dol.gov/agencies/eta/layoffs/warn) at the national level. These are reported by state (where applicable) and you'd be surprised how different the presentations are across states...
 * Completing DeepLearning.AI's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?) course.
-* Two working papers:
-  * Examining the efficacy of yield curve-based recession probability models in timing markets, making asset allocation decisions, etc.
-  * Examining the ability of simple composite housing supply/demand metrics (e.g., months supply of homes) to forecast future changes in aggregate housing prices (e.g. seaonally-adjusted Case-Shiller index) and exploring the main driver of the apparent disconnect between the supply/demand model before and after the pandemic-era housing boom.
+* Three working papers:
+  * *Do SPACs Create Value*, co-authored with [Dr. Mattia Landoni](http://www.mattialandoni.com/research/), examines the drivers of cumulative post-merger abnormal SPAC returns, proposes a model to quantify the amount by which underperformance is driven by "dilution" versus "value destruction". Uses hand-collected data set from original SPAC merger presentations and presents results in cohort-based event study. Presented to Boston Federal Reserve.
+  * Testing the efficacy of yield curve-based recession probability models in timing markets, making asset allocation decisions, etc.
+  * Demonstrating the ability of composite housing supply/demand metrics (e.g., months supply of homes) in forecasting future changes in aggregate housing prices (e.g. seaonally-adjusted Case-Shiller index) and exploring the main driver of the apparent disconnect between the supply/demand model before and after the pandemic-era housing boom.
