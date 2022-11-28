@@ -23,9 +23,8 @@ Please don't hesitate to reach out:
 * **R:** Data science tools like the Tidyverse | Data visualization with ggplot
 
 ### **Working on:**
-* Reading *[Mathematics of Machine Learning](https://mml-book.github.io/)* by Deisenroth, et al.
-* Scraping, standardizing, and reporting [WARN act notices](https://www.dol.gov/agencies/eta/layoffs/warn) at the national level. These are reported by state (where applicable) and you'd be surprised how different the presentations are across states...
 * Completing DeepLearning.AI's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?) course.
+* Scraping, standardizing, and reporting [WARN act notices](https://www.dol.gov/agencies/eta/layoffs/warn) at the national level. These are reported by state (where applicable) and you'd be surprised how different the presentations are across states...
 * Four working papers / works in progress:
   * *Do SPACs Create Value*, [co-authored with Dr. Mattia Landoni](http://www.mattialandoni.com/research/) and presented to the Federal Reserve Bank of Boston, examines the drivers of cumulative post-merger abnormal SPAC returns. A model is proposed to quantify the amount by which underperformance is driven by "dilution" versus "value destruction". Uses hand-collected data set from original SPAC merger presentations and presents results in a cohort-based event study. Unlike other SPAC return studies, I merge a data set of daily stock loan rates to estimate a truer measure of short-and-hold returns, leading to a discussion of practical constraints faced by would-be arbitrageurs.
   * Testing the efficacy of yield curve-based recession probability models in timing markets, informing asset allocation decisions, etc.
