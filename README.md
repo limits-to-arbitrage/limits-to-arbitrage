@@ -19,7 +19,7 @@ Please don't hesitate to reach out:
 * R
 
 ### **Libraries and tools:**
-* **Python:** Data science tools like Pandas, NumPy | Web scraping with Selenium | Data visualization with Matplotlib
+* **Python:** Data science tools like pandas, NumPy | Web scraping with Selenium | Data visualization with Matplotlib
 * **R:** Data science tools like the Tidyverse | Data visualization with ggplot
 
 ### **Working on:**
