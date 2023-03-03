@@ -1,5 +1,5 @@
 # Overview
-I started in finance as a hedge fund analyst trading long and (mostly) short equity. The way I approached my work became increasingly quantitative until I figured it was time to formally pursue a quantitative role (while still doing hedge fund consulting).
+I started in finance as a hedge fund analyst trading long and (mostly) short equity. The way I approached my work became increasingly quantitative until I figured it was time to formally pursue a more quantitative role.
 
 Outside of project repos, I also log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts). Most recently on:
 * **[Random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts):** I posted a simple [derivation of the duration of a growing perpetuity](https://github.com/limits-to-arbitrage/random-finance-posts/blob/main/duration-growing-perpetuity.ipynb), as I'd yet to see one readily online.
