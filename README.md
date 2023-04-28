@@ -1,7 +1,7 @@
 # Overview
 Hedge fund analyst and consultant. Long and (mostly) short equity.
 
-Traded traditional IPOs, alternative IPOs (e.g., Reg A+, reverse mergers), SPACs, accounting frauds, distressed equities, bankruptcies, stock promotions, etc. Currently working on strategies/systems that use fundamentals-based signals while going back to school for more mathematics and computer science.
+Traded traditional IPOs, alternative IPOs (e.g., Reg A+, reverse mergers), SPACs, accounting frauds, distressed equities, bankruptcies, stock promotions, etc. Currently working on equity market neutral strategies/systems that use fundamentals-based signals while going back to school for more mathematics and computer science.
 
 Outside of project repos, I also log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts). Most recently on:
 * **[Random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts):** I posted a simple [derivation of the duration of a growing perpetuity](https://github.com/limits-to-arbitrage/random-finance-posts/blob/main/duration-growing-perpetuity.ipynb), as I'd yet to see one readily online.
