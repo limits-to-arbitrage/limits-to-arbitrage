@@ -1,5 +1,5 @@
 # Overview
-Hedge fund analyst and consultant, long and (mostly) short equity.
+Hedge fund analyst and consultant, long and (mostly) short equity. Working on strategies/systems that use fundamentals-based signals.
 
 Outside of project repos, I also log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts). Most recently on:
 * **[Random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts):** I posted a simple [derivation of the duration of a growing perpetuity](https://github.com/limits-to-arbitrage/random-finance-posts/blob/main/duration-growing-perpetuity.ipynb), as I'd yet to see one readily online.
