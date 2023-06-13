@@ -25,7 +25,7 @@ Please don't hesitate to reach out:
 * **R:** Data science tools like the Tidyverse | Data visualization with ggplot
 
 ### **Working on:**
-* [Twitter Inflation nowcast bot](https://github.com/limits-to-arbitrage/unofficial-inflation-nowcast-bot)
+* [Twitter Inflation nowcast bot](https://github.com/limits-to-arbitrage/unofficial-inflation-nowcast-bot) (On hold.)
 * Working papers / works in progress:
   * *Do SPACs Create Value*, [co-authored with Dr. Mattia Landoni](http://www.mattialandoni.com/research/) and presented to the Federal Reserve Bank of Boston, examines the drivers of cumulative post-merger abnormal SPAC returns. A model is proposed to quantify the amount by which underperformance is driven by "dilution" versus "value destruction". Uses hand-collected data set from original SPAC merger presentations and presents results in a cohort-based event study. Unlike other SPAC return studies, I merge a data set of daily stock loan rates to estimate a truer measure of short-and-hold returns, leading to a discussion of practical constraints faced by would-be arbitrageurs.
   * Demonstrating the ability of simple, government-reported housing metrics in forecasting future changes in aggregate housing prices (e.g., seasonally-adjusted Case-Shiller index) and exploring the main driver of the apparent disconnect between the model before and after the pandemic-era housing boom.
