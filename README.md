@@ -1,5 +1,5 @@
 # Overview
-Hedge fund analyst and consultant. Long and (mostly) short equity.
+Hedge fund analyst and consultant. Long and (mostly) short equity. Currently trading systems using fundamental signals.
 
 Traded traditional IPOs, alternative IPOs (e.g., Reg A+, reverse mergers), SPACs, accounting frauds, distressed equities, bankruptcies, stock promotions, etc. Currently working on equity market neutral strategies/systems that use fundamentals-based signals while going back to school for more mathematics and computer science.
 
