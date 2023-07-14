@@ -1,5 +1,5 @@
 # Overview
-Hedge fund analyst and consultant. Long and (mostly) short equity.
+Hedge fund analyst and consultant; CFA/CPA. Long and (mostly) short equity.
 
 Currently trading systematic, equity market-neutral strategies using fundamental signals. Also, I'm back in school for more mathematics and computer science coursework. I've professionally traded traditional IPOs, alternative IPOs, SPACs, accounting frauds, distressed equities, bankruptcies, stock promotions, etc., for hedge funds.
 
