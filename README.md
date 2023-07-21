@@ -15,14 +15,9 @@ Please don't hesitate to reach out:
 
 # Details
 
-### **Languages:**
-* Python
-* SQL
-* R
-
-### **Libraries and tools:**
+### **Languages and tools:**
 * **Python:** Data science tools like pandas, NumPy | Web scraping with Selenium | Data visualization with Matplotlib
-* **R:** Data science tools like the Tidyverse | Data visualization with ggplot
+* **SQL/PostgreSQL**
 
 ### **Working on:**
 * [Twitter Inflation nowcast bot](https://github.com/limits-to-arbitrage/unofficial-inflation-nowcast-bot) (On hold.)
