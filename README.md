@@ -16,7 +16,7 @@ Please don't hesitate to reach out:
 # Details
 
 ### **Languages and tools:**
-Python and Python Data science stack (e.g., pandas, NumPy, matplotlib) | Familiar with C++, R, SQL
+Python and Python sata science stack (e.g., pandas, NumPy, matplotlib) | Familiar with C++, R, SQL
 
 ### **Working on:**
 * [Twitter Inflation nowcast bot](https://github.com/limits-to-arbitrage/unofficial-inflation-nowcast-bot) (On hold.)
