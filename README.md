@@ -16,8 +16,7 @@ Please don't hesitate to reach out:
 # Details
 
 ### **Languages and tools:**
-* **Python:** Data science tools like pandas, NumPy | Web scraping with Selenium | Data visualization with Matplotlib
-* **SQL/PostgreSQL**
+Python and Python Data science stack (e.g., pandas, NumPy, matplotlib) | Familiar with C++, R, SQL
 
 ### **Working on:**
 * [Twitter Inflation nowcast bot](https://github.com/limits-to-arbitrage/unofficial-inflation-nowcast-bot) (On hold.)
