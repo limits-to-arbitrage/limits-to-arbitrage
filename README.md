@@ -18,6 +18,23 @@ Please don't hesitate to reach out:
 ### **Languages and tools:**
 Python and Python data science stack (e.g., pandas, NumPy, matplotlib) | Familiar with C++, R, SQL, webscraping with Selenium and Beautiful Soup
 
+### **Mathematics coursework:**
+I only list this because my degrees are in finance/accounting, while I elected to nondegree pure and applied math coursework:
+* Calculus I
+* Calculus II
+* Multivariable calculus
+* Linear algebra and vector geometry
+* Differential equations I (ODE)
+* Discrete mathematics (proof writing)
+* Applied statistics
+
+Current enrollment:
+* Real analysis I
+* Abstract algebra I
+* Differential equations II (PDE)
+* Vector calculus
+* Probability
+
 ### **Working on:**
 * Working papers / works in progress:
   * *Do SPACs Create Value*, [co-authored with Dr. Mattia Landoni](http://www.mattialandoni.com/research/) and presented to the Federal Reserve Bank of Boston, examines the drivers of cumulative post-merger abnormal SPAC returns. A model is proposed to quantify the amount by which underperformance is driven by "dilution" versus "value destruction". Uses hand-collected data set from original SPAC merger presentations and presents results in a cohort-based event study. Unlike other SPAC return studies, I merge a data set of daily stock loan rates to estimate a truer measure of short-and-hold returns, leading to a discussion of practical constraints faced by would-be arbitrageurs.
