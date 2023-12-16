@@ -19,7 +19,7 @@ Please don't hesitate to reach out:
 Python and Python data science stack (e.g., pandas, NumPy, matplotlib) | Familiar with C++, R, SQL, webscraping with Selenium and Beautiful Soup
 
 ### **Mathematics coursework:**
-I only list this because my degrees are in finance/accounting, yet I elected to take pure and applied math coursework on a nondegree basis:
+My degrees are in finance/accounting but I elected to take the following university pure and applied math coursework:
 * Calculus I
 * Calculus II
 * Multivariable calculus
