@@ -28,7 +28,7 @@ I only list this because my degrees are in finance/accounting, yet I elected to 
 * Discrete mathematics (proof writing)
 * Applied statistics
 
-Current enrollment:
+Current enrollment (Spring '24):
 * Real analysis I
 * Abstract algebra I
 * Differential equations II (PDE)
