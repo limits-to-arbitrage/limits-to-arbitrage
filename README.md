@@ -32,7 +32,6 @@ Current enrollment (Spring '24):
 * Real analysis I
 * Abstract algebra I
 * Differential equations II (PDE)
-* Vector calculus
 * Probability
 
 ### **Working on:**
