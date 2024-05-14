@@ -27,8 +27,6 @@ My degrees are in finance/accounting, but I elected to take the following univer
 * Differential equations I (ODE)
 * Discrete mathematics (proof writing)
 * Applied statistics
-
-Current enrollment (Spring '24):
 * Real analysis I
 * Abstract algebra I
 * Differential equations II (PDE)
