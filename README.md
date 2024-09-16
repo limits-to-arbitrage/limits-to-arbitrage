@@ -5,7 +5,7 @@ I am currently toying with market-neutral strategies while back in school for ma
 
 Outside of project repos, I sometimes log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts). Most recently on:
 * **[Random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts):** I posted a simple [derivation of the duration of a growing perpetuity](https://github.com/limits-to-arbitrage/random-finance-posts/blob/main/duration-growing-perpetuity.ipynb), as I'd yet to see one readily online.
-* **[Random general posts](https://github.com/limits-to-arbitrage/random-posts):** I posted a [step-by-step derivation of OLS estimates for simple linear regression](https://github.com/limits-to-arbitrage/random-posts/blob/main/simple_regression_ols.ipynb) for those interested (e.g., 
+* **[Random general posts](https://github.com/limits-to-arbitrage/random-posts):** I posted a [step-by-step derivation of OLS estimates for simple linear regression](https://github.com/limits-to-arbitrage/random-posts/blob/main/simple_regression_ols.ipynb) for those interested.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Michael_Bianez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelbianez//)](https://www.linkedin.com/in/michaelbianez/) [![Gmail Badge](https://img.shields.io/badge/-michaelbianez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelbianez@gmail.com)](mailto:michaelbianez@gmail.com)
 
