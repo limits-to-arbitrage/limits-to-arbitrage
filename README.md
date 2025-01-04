@@ -9,7 +9,7 @@ I am back in school for mathematics at Columbia University's graduate applied ma
 # Details
 
 ### **Languages and tools:**
-Python and Python data science stack (e.g., pandas, NumPy, matplotlib) | Familiar with C++, R, SQL, webscraping with Selenium and Beautiful Soup
+Python and Python data science stack (e.g., pandas, NumPy, matplotlib) | SQL | Familiar with C++, R, webscraping with Python/Selenium
 
 ### **Mathematics coursework:**
 #### Undergraduate
