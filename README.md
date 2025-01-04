@@ -1,7 +1,8 @@
 # Overview
+
 Hedge fund analyst and consultant; CFA/CPA. Long and (mostly) short equity.
 
-I am currently toying with market-neutral strategies while back in school for mathematics. After getting degrees in finance/accounting, and working as a traditional long/short equity hedge fund analyst, I decided to formally study mathematics and statistics to inch closer to a quantitative role. I've professionally traded traditional IPOs, alternative IPOs, SPACs, accounting frauds, distressed equities, bankruptcies, etc., for hedge funds.
+I am currently toying with market-neutral strategies while back in school for mathematics at Columbia University. After getting degrees in finance/accounting, and working as a traditional long/short equity hedge fund analyst, I decided to formally study mathematics and statistics to inch closer to a quantitative role. I've professionally traded traditional IPOs, alternative IPOs, SPACs, accounting frauds, distressed equities, bankruptcies, etc., for hedge funds.
 
 Outside of project repos, I sometimes log [random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts) and [random general posts](https://github.com/limits-to-arbitrage/random-posts). Most recently on:
 * **[Random finance posts](https://github.com/limits-to-arbitrage/random-finance-posts):** I posted a simple [derivation of the duration of a growing perpetuity](https://github.com/limits-to-arbitrage/random-finance-posts/blob/main/duration-growing-perpetuity.ipynb), as I'd yet to see one readily online.
