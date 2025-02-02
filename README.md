@@ -13,14 +13,7 @@ Python and Python data science stack (e.g., pandas, NumPy, matplotlib) | SQL | F
 
 ### **Mathematics coursework:**
 #### Undergraduate
-* Calculus I
-* Calculus II
-* Multivariable calculus
-* Linear algebra and vector geometry
-* Differential equations I (ODE)
-* Discrete mathematics (proof writing)
-* Applied statistics
-* Real analysis I
-* Abstract algebra I
-* Differential equations II (PDE)
-* Probability
+Calculus I | Calculus II | Multivariable calculus | Linear algebra and vector geometry | Differential equations I (ODE) | Discrete mathematics (proof writing) | Applied statistics | Real analysis I | Abstract algebra I | Differential equations II (PDE) | Probability
+
+#### Graduate
+Advanced Linear Algebra | Numerical Methods
